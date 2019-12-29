@@ -25,3 +25,6 @@ function dec(a){
 function makeInt(a){
   return a.toString
 };
+function makeInt(n){
+  return parseInt(n, 10)
+};
