@@ -22,6 +22,9 @@ function inc(a){
 function dec(a){
   return --a
 };
+funtion makeInt(a){
+  return a.toString
+};
 function makeInt(a){
   return parseInt('a')
 };
