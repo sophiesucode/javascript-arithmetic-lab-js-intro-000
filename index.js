@@ -31,3 +31,5 @@ function makeInt(n){
 function makeInt(NaN){
   return parseInt(NaN)
 };
+function preserveDecimal(n){
+  return parseFloat(n);
