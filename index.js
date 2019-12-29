@@ -25,7 +25,7 @@ function dec(a){
 funtion makeInt(a){
   return a.toString
 };
-funtion makeInt(2.2222, 10){
+function makeInt(2.2222, 10){
 
 return parseInt('2.2222', 10)
 }
