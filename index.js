@@ -22,7 +22,7 @@ function inc(a){
 function dec(a){
   return --a
 };
-funtion makeInt(a){
+function makeInt(a){
   return a.toString
 };
 function makeInt(a, 10){
