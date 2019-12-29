@@ -25,7 +25,7 @@ function dec(a){
 function makeInt(a){
   return a.toString
 };
-function makeInt(a, 10){
+function makeInt(a, base 10){
 
 return parseInt(a, 10)
 };
