@@ -25,11 +25,7 @@ function dec(a){
 function makeInt(a){
   return a.toString
 };
-function makeInt(n){
-  return parseInt(n, 10)
+function makeInt('0x2328',10){
+  return parseInt('0x2328', 10)
 };
-function makeInt(NaN){
-  return parseInt(NaN)
-};
-function preserveDecimal('2.222'){
-  return parseFloat('2.222');
+
